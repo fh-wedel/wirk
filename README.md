@@ -1,5 +1,5 @@
 # wirk
-Demo für das Praktikum Wirkprinzipien
+Besser Demo für das Praktikum Wirkprinzipien
 
 Die ist ein Test.
 
